@@ -6,7 +6,10 @@ This is a basic library website that servers functionality of registering new us
 ![image](https://user-images.githubusercontent.com/90787864/191328973-8c19c2b1-b258-46bd-8f11-ff1af90438e4.png)
 <br/>
 <br/>
-it allows users to check their account data including books they lend it also allows to lend available books.
+It allows users to check their account data including books they lend it also allows to lend available books.
+<br/>
+![image](https://user-images.githubusercontent.com/90787864/191329267-31b45587-c236-45ca-bb62-7e14ff7ed428.png)
+<br/><br/>
 <br/>
 <br/>
 There is also a search option for non-registered users that allows to lookup the details of books without the need to login.
