@@ -1,0 +1,120 @@
+body {
+    background-color: #F9F9F9;
+    font-family: 'Roboto Mono', monospace;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main_wrapper {
+    height: 100vh;
+    background: rgb(255,211,146);
+    background: linear-gradient(180deg, rgba(255,211,146,1) 15%, #F9F9F9 15%);
+    display: grid;
+    grid-template-rows: 5% auto;
+    
+}
+.content_wrapper {
+    width: 40%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+.profile_picture {
+    padding-top: 20px;
+    width: 230px;
+    height: auto;
+    border-radius: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+p {
+    color:black;
+    font-weight: 500;
+
+}
+ul {
+    width: unset;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: flex-start; */
+    list-style: none;
+}
+.content {
+    border: 2px solid #898989;
+    padding: 20px;
+    border-radius: 15px;
+    margin-left: 50px;
+    -webkit-box-shadow: 0px 3px 16px 7px rgba(255,211,146,1);
+    -moz-box-shadow: 0px 3px 16px 7px rgba(255,211,146,1);
+    box-shadow: 0px 3px 16px 7px rgba(255,211,146,1);
+}
+
+.list {
+    width:100%;
+    margin-right: 10px;
+}
+
+button {
+    border: none;
+    color: grey;
+    background-color: transparent;
+    border-radius: 5px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1rem;
+    padding: 6px;
+}
+
+.active {
+    color: white;
+    background-color:rgb(255,211,146);
+}
+
+button:focus {
+    outline:none;
+}
+button:hover {
+    color:black
+}
+
+.logout {
+    margin-bottom: 0;
+}
+
+a:link {
+    text-decoration: none;
+}
+a:focus {
+    color: black;
+}
+
+a:visited {
+    color:gray;
+}
+
+
+.add_book {
+    color: white;
+    background-color: #FFD392;
+    border-radius: 50%;
+    text-align: center;
+    padding: 2px;
+    margin-bottom: 0;
+    width: 20px;
+    border: none;
+    outline: none;
+}
+.add_book:hover {
+    color: black;
+}
+
+
+.available_books {
+    line-height: 50%;
+    margin-block-start: .5em;
+    margin-block-end: .5em;
+}
