@@ -1,1 +1,5 @@
-#Biblioteka
+My high school project written in HTML, CSS , JavaScript (also AJAX to update parts od website) and PHP.
+This is a basic library website that servers functionality of registering new users and logging them in
+it allows users to check their account data including books they lend it also allows to lend available books.
+There is also a search option for non-registered users that allows to lookup the details of books without the need to login.
+The main page displays a random book as a book recommandation.
