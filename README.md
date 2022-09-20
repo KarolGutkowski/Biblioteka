@@ -1,5 +1,11 @@
 My high school project written in HTML, CSS , JavaScript (also AJAX to update parts od website) and PHP.
+<br/>
+<br/>
 This is a basic library website that servers functionality of registering new users and logging them in
+![image](https://user-images.githubusercontent.com/90787864/191328973-8c19c2b1-b258-46bd-8f11-ff1af90438e4.png)
+
+<br/>
+<br/>
 it allows users to check their account data including books they lend it also allows to lend available books.
 <br/>
 <br/>
