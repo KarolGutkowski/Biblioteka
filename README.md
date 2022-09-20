@@ -1,8 +1,10 @@
+<center>
 My high school project written in HTML, CSS , JavaScript (also AJAX to update parts od website) and PHP.
 <br/>
 <br/>
 This is a basic library website that servers functionality of registering new users and logging them in
 <br/>
+
 <img src="https://user-images.githubusercontent.com/90787864/191328973-8c19c2b1-b258-46bd-8f11-ff1af90438e4.png"  width="400"/>
 <!-- ![image](https://user-images.githubusercontent.com/90787864/191328973-8c19c2b1-b258-46bd-8f11-ff1af90438e4.png) -->
 <br/>
@@ -27,3 +29,4 @@ There is also a search option for non-registered users that allows to lookup the
 The main page displays a random book as a book recommandation.
 <img src="https://user-images.githubusercontent.com/90787864/191328323-529dd1a4-88b7-4a64-922d-470320d2330d.png"  width="400"/>
 <!-- ![image](https://user-images.githubusercontent.com/90787864/191328323-529dd1a4-88b7-4a64-922d-470320d2330d.png) -->
+</center>
